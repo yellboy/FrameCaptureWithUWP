@@ -1,0 +1,2 @@
+C:\Projects\HoloLens\FrameCaptureWithUWP\FrameCapture\FrameCapture\FrameCapture.csproj;x86
+C:\Projects\HoloLens\FrameCaptureWithUWP\FrameCapture\MainApp\MainApp.csproj;x86
